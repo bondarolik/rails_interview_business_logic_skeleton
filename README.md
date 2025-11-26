@@ -1,0 +1,1 @@
+# rails_interview_business_logic_skeleton
